@@ -79,4 +79,4 @@ jupyter notebook 01_eda.ipynb
 
 ## Author
 
-Your Name
+Olha Sapon
